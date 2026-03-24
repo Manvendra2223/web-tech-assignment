@@ -92,7 +92,4 @@ java Main
 
 ---
 
-## 👨‍💻 Author
-
-Mannu
 
