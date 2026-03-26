@@ -1,9 +1,14 @@
+// This class provides additional information about the Person bean
+// using PropertyDescriptor
+
 package beaninfo;
-import beans.Person;
+
 import java.beans.*;
+import beans.Person;
 
 public class PersonBeanInfo extends SimpleBeanInfo {
 
+    // Define properties of the bean
     public PropertyDescriptor[] getPropertyDescriptors() {
         try {
             PropertyDescriptor name = new PropertyDescriptor("name", Person.class);

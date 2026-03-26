@@ -1,13 +1,19 @@
+// This class is used to test the Person JavaBean
+
 import beans.Person;
+
 public class Test {
     public static void main(String[] args) {
-        System.out.println("Testing JavaBeans");
 
+        // Create object of Person
         Person p = new Person();
+
+        // Set values
         p.setName("Mannu");
         p.setAge(20);
 
-        System.out.println(p.getName());
-        System.out.println(p.getAge());
+        // Display values
+        System.out.println("Name: " + p.getName());
+        System.out.println("Age: " + p.getAge());
     }
 }
