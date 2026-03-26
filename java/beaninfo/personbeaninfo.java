@@ -1,7 +1,7 @@
 // This class provides additional information about the Person bean
 // using PropertyDescriptor
 
-package beaninfo;
+ package beaninfo;
 
 import java.beans.*;
 import beans.Person;
