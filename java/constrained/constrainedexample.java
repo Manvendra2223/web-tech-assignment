@@ -1,3 +1,4 @@
+package constrained;
 import java.beans.*;
 
 public class ConstrainedExample {

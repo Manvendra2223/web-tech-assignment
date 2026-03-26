@@ -1,3 +1,5 @@
+package beaninfo;
+import beans.Person;
 import java.beans.*;
 
 public class PersonBeanInfo extends SimpleBeanInfo {

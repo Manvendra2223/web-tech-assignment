@@ -1,3 +1,4 @@
+package bound;
 import java.beans.*;
 
 public class BoundExample {
