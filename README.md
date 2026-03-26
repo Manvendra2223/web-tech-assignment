@@ -91,5 +91,10 @@ java Main
 * Git & GitHub
 
 ---
+##  Outputs 
 
+* Bound Property Output
+* Constrained Property Output
+
+  - - -
 
